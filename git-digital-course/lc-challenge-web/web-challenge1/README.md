@@ -39,6 +39,5 @@ Fique atento aos requisitos funcionais da aplicação:
 Para rodar este projeto, primeiro execute o comando `npm install` ou `yarn` na raiz desta pasta (mesmo diretório em que se encontra este README.md). Em seguida, utilize o comando `npm start` ou `yarn start` para iniciar o projeto, abrindo-o no navegador.
 
 ## Name: Shirley Brito
-test command git fetch 
-test command git fetch II
+
 
